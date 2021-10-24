@@ -2,3 +2,25 @@
 
 3 different 2-layer PCBs designed in KiCad. 
 Video: https://www.youtube.com .......
+
+6 vu meters:
+
+- Standard Rainbow
+- Standard center
+- Standard changing color
+- Color center changing
+- Shooting Star
+- Falling Star
+
+10 LED effects:
+
+- Snow Flakes
+- Ripple
+- Ripple with background
+- Twinkle
+- Twinkle random colors
+- Fire
+- Rainbow
+- Water Drops
+- Bouncing Balls
+- All white
