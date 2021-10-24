@@ -1,3 +1,3 @@
-ESP32 WROOM module used to control tube vu meter + misc LED effect
+ESP32 WROOM module used to control tube vu meter + misc LED effects
 
 2-layer PCBs designed in KiCad. Video: https://www.youtube.com .......
