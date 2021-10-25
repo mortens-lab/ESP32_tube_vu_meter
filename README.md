@@ -3,8 +3,8 @@
 Including 3 different 2-layer PCBs designed in KiCad. 
 Video: https://www.youtube.com .......
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K46PQW5)
-
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K46PQW5) -->
+<!-- This content will not appear in the rendered Markdown -->
 6 vu meters:
 
 - Standard Rainbow
