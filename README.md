@@ -16,7 +16,7 @@ Video: https://www.youtube.com .......
 
 10 LED effects:
 
-- Snow Flakes
+- Snowflakes
 - Ripple
 - Ripple with background
 - Twinkle
