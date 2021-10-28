@@ -11,8 +11,8 @@ Video: https://www.youtube.com .......
 
 - Standard Rainbow
 - Standard center
-- Standard changing color
-- Color center changing
+- Standard changing Color
+- Standard center changing Color
 - Shooting Star
 - Falling Star
 
@@ -22,9 +22,11 @@ Video: https://www.youtube.com .......
 - Ripple
 - Ripple with background
 - Twinkle
-- Twinkle random colors
+- Twinkle random Colors
 - Fire
 - Rainbow
 - Water Drops
 - Bouncing Balls
 - All white
+
+Have fun, I hope you learned something new :-)
