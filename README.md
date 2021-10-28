@@ -1,4 +1,4 @@
-## ESP32 - tube vu meter + misc LED effects
+## ESP32 - tube VU meter + misc LED effects
 
 Including Arduino code for ESP32 WROOM module.  <br />
 Including three different schematics and 2-layer PCBs designed in KiCad.  <br />
@@ -7,7 +7,7 @@ Video: https://www.youtube.com .......
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K46PQW5) -->
 <!-- This content will not appear in the rendered Markdown -->
-6 vu meters:
+6 VU meter types:
 
 - Standard Rainbow
 - Standard center
