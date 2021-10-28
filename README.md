@@ -1,7 +1,8 @@
 ## ESP32 - tube vu meter + misc LED effects
 
-Including 3 different 2-layer PCBs designed in KiCad.  <br />
-Including 3 3D models for parts - designed in Fusion360.  <br />
+Including Arduino code for ESP32 WROOM module.  <br />
+Including three different schematics and 2-layer PCBs designed in KiCad.  <br />
+Including three 3D models for parts - designed in Fusion360.  <br />
 Video: https://www.youtube.com .......
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K46PQW5) -->
