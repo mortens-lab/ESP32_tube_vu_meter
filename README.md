@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mortenslab)
 ## ESP32 - tube VU meter + misc LED effects
 
 Including Arduino code for ESP32 WROOM module.  <br />
